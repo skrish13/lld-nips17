@@ -1,5 +1,7 @@
 # LLD Workshop - NIPS 2017 (Unofficial Workshop Book)
 
+Contents taken from the official workshop website - https://lld-workshop.github.io/
+
 ## Best Papers
 
 - [Yucen Luo](http://ml.cs.tsinghua.edu.cn/~yucen/), [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/), Mengxi Li, Yong Ren and Bo Zhang. Smooth Neighbors on Teacher Graphs for Semi-supervised Learning, [pdf](https://lld-workshop.github.io/papers/LLD_2017_paper_3.pdf)
