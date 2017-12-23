@@ -1,5 +1,7 @@
 # LLD Workshop - NIPS 2017 (Unofficial Workshop Book)
 
+**Learning with Limited Labeled Data: Weak Supervision and Beyond**. Really cool workshop and set of papers. The book basically is aimed at people who wish to read all the papers without the fuzz of downloading them one by one. There were few papers whose pdf weren't available as listed below.
+
 Contents taken from the official workshop website - https://lld-workshop.github.io/
 
 ## Best Papers
